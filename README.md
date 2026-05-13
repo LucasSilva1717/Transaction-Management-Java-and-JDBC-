@@ -1,4 +1,4 @@
-# 🏦 Gerenciamento de Transações - Java & JDBC
+# 🏦 SalesDepartmentAPI BACK-END - Java & JDBC
 
 [![Java](https://shields.io)](https://oracle.com)
 [![PostgreSQL](https://shields.io)](https://postgresql.org)
